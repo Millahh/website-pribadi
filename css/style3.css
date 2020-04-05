@@ -1,0 +1,61 @@
+*{
+    margin:0px auto;
+    border: 1px solid transparent;
+}
+
+body{
+    background-image :url(../gambar/pastel3.jpg); 
+    background-repeat: repeat-y;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    width:900px;
+    height: 2100px;
+}
+.container .a{
+    height:600px;
+    padding-top: 50px;
+}
+.song hr{
+    padding-top: 20px;
+}
+.st{
+    float:right;
+    padding:0 20px 5px 170px;
+    
+}
+.dw{
+    float:right;
+    padding:0 20px 5px 138px;
+}
+.song p{
+    float:right;
+    padding-top: 20px;
+}
+.kanan .k{
+    margin-right: 30px;
+}
+.movie p{
+    float:right;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.movie img{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.movie{
+    padding-right: 20px;
+}
+.movie div{
+    display: inline-block;
+}
+.youtube div{
+    float:left;
+}
+.youtube p,h3{
+    text-align:center;
+    padding-right: 10px;
+}
+
